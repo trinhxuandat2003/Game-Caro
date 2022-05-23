@@ -325,7 +325,7 @@ void khungplay()
     for(int i = 0; i<78; i++)
     {
         gotoXY(1+i, 0);
-        cout << (char)220;
+        cout << (char)42;
     }
         for(int i = 0; i<78; i++)
     {
