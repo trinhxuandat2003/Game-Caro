@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584205420 source:d:\co caro\main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL.h>
+
+1653303343 source:d:\co caro\caro.cpp
+	<iostream>
+	"console.h"
+	<cstdlib>
+	<string>
+	<cmath>
+	<conio.h>
+
+1653293461 d:\co caro\console.h
+	<cstdio>
+	<conio.h>
+	<Windows.h>
+
